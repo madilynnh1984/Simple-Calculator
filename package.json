@@ -1,0 +1,26 @@
+{
+"name": "simple-calcu-lator",
+"version": "1.0.0",
+"description": "simple-calcu-lator is a Node.js application that provides basic arithmetic operations. It supports addition, subtraction, multiplication, and division of two numbers. This application is ideal for users who need quick calculations without any complex functionalities.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/madilynnh1984/Simple-Calculator.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "madilynnh1984",
+"license": "MIT",
+"dependencies": {
+"a-dynamic34e": "^1.0.0",
+"madi21-dsf": "^1.0.0"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
